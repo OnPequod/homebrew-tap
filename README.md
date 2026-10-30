@@ -1,8 +1,7 @@
 # OnPequod Homebrew Tap
 
 ```sh
-brew tap onpequod/tap
-brew install academic-page
+brew install onpequod/tap/academic-page
 ```
 
-Formulae live in `Formula/`. They are updated by each project's release workflow.
+Casks live in `Casks/`. Each project's release workflow (GoReleaser) updates them; don't edit them by hand.
